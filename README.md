@@ -1,2 +1,4 @@
 # Retail-Data-Analysis-using-Kafka-streaming-
 Objective: Create Data pipeline - To read sales data from Kafka Server ,Pre-process data to calculate derived columns, calculate time bases KPI's , Time and Country based KPI's,Store the output into separate JSON field for every 10min interval Solution: Read data from Kafka Stream , Transform Data using Spark Streaming ,Create Derived method for KPI's , Loading data in JSON files Key Achievement: Data pipelin to read data from Kafka stream and transform it using spark streaming module , Store data in separate JSON for further analysis
+![image](https://user-images.githubusercontent.com/55485987/189533597-ea0a647f-d747-40f6-8933-8de43d1ba577.png)
+![image](https://user-images.githubusercontent.com/55485987/189533606-38622fc3-fc44-488e-80aa-d7a62222f91d.png)
